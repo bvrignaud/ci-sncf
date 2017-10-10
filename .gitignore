@@ -4,7 +4,7 @@ config/*
 !config/sncf.php
 
 controllers/*
-!controllers/Sncf.php
+!controllers/Sncf_*.php
 
 core/*
 
